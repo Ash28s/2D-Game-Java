@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6bc05a0-08d1-4fad-a45b-24337169d9e3" name="Changes" comment="Game Loop and Key Input 1">
+    <list default="true" id="a6bc05a0-08d1-4fad-a45b-24337169d9e3" name="Changes" comment="Game Loop - Sleep Method">
       <change beforePath="$PROJECT_DIR$/src/Main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/GamePanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749496319144</updated>
-      <workItem from="1749496320160" duration="3215000" />
+      <workItem from="1749496320160" duration="3703000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -101,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749498921908</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Game Loop - Sleep Method">
+      <option name="closed" value="true" />
+      <created>1749499748843</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749499748843</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +119,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Added Screen and some basic game physics" />
     <MESSAGE value="Game Loop and Key Input 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Game Loop and Key Input 1" />
+    <MESSAGE value="Game Loop - Sleep Method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Game Loop - Sleep Method" />
   </component>
 </project>
