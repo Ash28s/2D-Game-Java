@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6bc05a0-08d1-4fad-a45b-24337169d9e3" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/Main/GamePanel.java" afterDir="false" />
+    <list default="true" id="a6bc05a0-08d1-4fad-a45b-24337169d9e3" name="Changes" comment="Added Screen and some basic game physics">
+      <change afterPath="$PROJECT_DIR$/src/Main/KeyHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/GamePanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749496319144</updated>
-      <workItem from="1749496320160" duration="732000" />
+      <workItem from="1749496320160" duration="2502000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -86,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749496432800</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Screen and some basic game physics">
+      <option name="closed" value="true" />
+      <created>1749497325541</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749497325541</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Added Screen and some basic game physics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Screen and some basic game physics" />
   </component>
 </project>
