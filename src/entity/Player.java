@@ -24,7 +24,7 @@ public class Player extends Entity{
         x = 100;
         y = 100;
         speed = 4;
-        direction = "down";  // Any direction is fine
+        direction = "down";  // Any direction is fine according to developer
     }
 
     public void getPlayerImage(){
