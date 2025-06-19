@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6bc05a0-08d1-4fad-a45b-24337169d9e3" name="Changes" comment="Drawing Tiles and Background 1">
+    <list default="true" id="a6bc05a0-08d1-4fad-a45b-24337169d9e3" name="Changes" comment="Drawing Tiles and Background 2 (only Grass Tile implemented)">
+      <change afterPath="$PROJECT_DIR$/res/maps/map01.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tile/TileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tile/TileManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,23 +48,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ashut/Downloads/journalApp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/JAVA & DSA/Projects/2D Game Java/res/maps",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA &amp; DSA\Projects\2D Game Java\res\maps" />
       <recent name="D:\JAVA &amp; DSA\Projects\2D Game Java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -91,7 +94,7 @@
       <workItem from="1749833857851" duration="167000" />
       <workItem from="1750087441745" duration="689000" />
       <workItem from="1750102385533" duration="89000" />
-      <workItem from="1750345917966" duration="2776000" />
+      <workItem from="1750345917966" duration="5419000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -205,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750346732531</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Drawing Tiles and Background 2 (only Grass Tile implemented)">
+      <option name="closed" value="true" />
+      <created>1750350039627</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1750350039627</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +235,7 @@
     <MESSAGE value="Player movement and its animations" />
     <MESSAGE value="minor changes" />
     <MESSAGE value="Drawing Tiles and Background 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Drawing Tiles and Background 1" />
+    <MESSAGE value="Drawing Tiles and Background 2 (only Grass Tile implemented)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Drawing Tiles and Background 2 (only Grass Tile implemented)" />
   </component>
 </project>
