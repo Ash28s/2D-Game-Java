@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6bc05a0-08d1-4fad-a45b-24337169d9e3" name="Changes" comment="minor changes" />
+    <list default="true" id="a6bc05a0-08d1-4fad-a45b-24337169d9e3" name="Changes" comment="minor changes">
+      <change afterPath="$PROJECT_DIR$/res/tiles/grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/wall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tile/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tile/TileManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/GamePanel.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="package.json" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -50,7 +58,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/JAVA &amp; DSA/Projects/2D Game Java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ashut/Downloads/journalApp&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -64,6 +72,7 @@
       <recent name="D:\JAVA &amp; DSA\Projects\2D Game Java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA &amp; DSA\Projects\2D Game Java\res\tiles" />
       <recent name="D:\JAVA &amp; DSA\Projects\2D Game Java\res\player" />
     </key>
   </component>
@@ -86,6 +95,9 @@
       <workItem from="1749496320160" duration="4687000" />
       <workItem from="1749672688424" duration="4767000" />
       <workItem from="1749833857851" duration="167000" />
+      <workItem from="1750087441745" duration="689000" />
+      <workItem from="1750102385533" duration="89000" />
+      <workItem from="1750345917966" duration="639000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -183,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749833902035</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="minor changes">
+      <option name="closed" value="true" />
+      <created>1750087483597</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1750087483597</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
